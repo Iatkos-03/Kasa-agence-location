@@ -5,7 +5,7 @@
 </br>
 
 Le sujet du projet 7 du parcours Développeur web chez Openclassrooms porte sur la refonte d'une plateforme web de location d'appartements pour Kasa. Le site doit être créé avec React à l'aide des données de location dans un fichier JSON. 
-Le recrutement de la personne en charge du back-end n'est pas terminé et va prendre plus de temps que prévu. Du coup, il va falloir que tu fasses sans pour le moment. Je t'ai extrait les 20 dernières annonces de logements dans ce fichier JSON pour que tu puisses construire le Front qui correspond.
+Le recrutement de la personne en charge du back-end n'est pas terminé et va prendre plus de temps que prévu. 
 
 
 
