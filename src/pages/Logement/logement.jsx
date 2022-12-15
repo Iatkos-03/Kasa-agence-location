@@ -20,6 +20,7 @@ function Logement () {
   const logement = getLogementWithId(data, logementId)
 
 //si logement existant retourne la fiche logement
+
   return(
     <main className='main_location'>
       { logement ? (

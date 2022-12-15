@@ -5,7 +5,7 @@ import { Loader } from '../../utils/loader/loader'
 import '../../utils/loader/loader.css'
 import './locationList.css'
 
-// Compare this snippet from src/components/LocationList/LocationList.jsx:
+// Compare this snippet from src/components/LocationList/locationList.jsx:
 
 export default function LocationList() {
   const { data, isLoading, error } = Usefetch(`/logements.json`)

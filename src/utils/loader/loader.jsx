@@ -1,7 +1,8 @@
 import './loader.css'
 import styled, { keyframes } from 'styled-components'
 
-//loader pour useFetch (appel api)
+// Compare this snippet from src/utils/loader/loader.jsx:
+
 const rotate = keyframes`
   from {
     transform: rotate(0deg);
