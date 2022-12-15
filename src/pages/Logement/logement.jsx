@@ -9,7 +9,7 @@ import Collapse from '../../components/Collapse/collapse'
 function Logement () {
   //récuprération des données
   const data = require("../../logements.json")
-  //identification du logment selectionné par id
+  //identification du logement selectionné par id
     function getLogementWithId (data, logementId) {
       for (let logement of data) {
         if (logement.id === logementId) { 
